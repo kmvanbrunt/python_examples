@@ -1,0 +1,8 @@
+# Python development, test, and build
+*.pyc
+
+# PyCharm
+.idea
+
+# Visual Studio Code
+.vscode
